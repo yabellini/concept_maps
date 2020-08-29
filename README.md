@@ -10,7 +10,7 @@ Fuera del ámbito de la enseñanza se pueden utilizar para acordar en un grupo d
 
 > Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
-En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis cursos, mis charlas, mis lecciones, mis reuniones y otros usos a medida que vayan ocurriendo.  Si te sirven podes usarlos siempre mencionando la fuente.  Están como imágenes porque fueron creados utilizando diferentes herramientas, si queres hacerle cambios a alguno y compartirlo por aqui hacelo haciendo un Pull Request (PR) a este repo.  Si no sabes o no queres hacer un Pull Request entonces completá un issue en el repo comentando que quisieras hacer y en qué mapa conceptual. Vamos a agregar tu nombre a las contribuciones (a menos que nos indiques lo contrario).
+En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis cursos, mis charlas, mis lecciones, mis reuniones y otros usos a medida que vayan ocurriendo.  Si te sirven podes usarlos siempre mencionando la fuente.  Están como imágenes porque fueron creados [utilizando diferentes herramientas](https://github.com/yabellini/concept_maps/blob/master/tools.md), si queres hacerle cambios a alguno y compartirlo por aqui hacelo haciendo un Pull Request (PR) a este repo.  Si no sabes o no queres hacer un Pull Request entonces completá un issue en el repo comentando que quisieras hacer y en qué mapa conceptual. Vamos a agregar tu nombre a las contribuciones (a menos que nos indiques lo contrario).
 
 ## Mapas conceptuales en español
 
@@ -37,7 +37,7 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
   - [Lección 7 - Estructuras de datos](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos.png)
   - [Lección 8 - Estructuras de datos continuación](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos_2.png)
   - [Lección 9 -Como ver la estructura de los datos](https://github.com/yabellini/concept_maps/blob/master/es/ver_estructura_de_datos.png)
-  
+  - [Código de los diagramas utilizando el paquete DiagrammeR](https://github.com/yabellini/concept_maps/blob/master/es/mapas_conceptuales_diagramR.md)
 
 ## Concept Maps in English
 
@@ -55,6 +55,7 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
   - [Lesson 7 - Data structures](https://github.com/yabellini/concept_maps/blob/master/en/data_structures_r.png)
   - [Lesson 8 - Data structures (cont.)](https://github.com/yabellini/concept_maps/blob/master/en/data_structures_tibble.png)
   - [Lesson 9 -Function to see data set structure]()
+  - [Source of the diagrams for the DiagrammeR package](https://github.com/yabellini/concept_maps/blob/master/en/concept_map_rmd_source.md)
 
 ## Licencia 
 
