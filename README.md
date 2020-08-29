@@ -4,9 +4,9 @@ Mapas conceptuales de mis cursos, meetups, lecciones, charlas y otras yerbas
 
 ## ¿Qué son los mapas conceptuales?
 
-Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) representan un modelo mental del tema que se quiere enseñar. Ayudan a las/os docentes a describir lo que quieren enseñar, brindan a otras/os instructores una descripción general rápida de una lección y permiten a las/os estudiantes verificar que han construido el modelo mental correcto.
-
-Fuera del ámbito de la enseñanza se pueden utilizar para acordar en un grupo de trabajo el esquema conceptual sobre el que se está trabajando, que se quiere desarrollar o que se quiere completar.
+Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) representan un modelo mental del tema que se quiere enseñar. Ayudan a las/os docentes a describir lo que quieren enseñar, brindan a otras/os instructores una descripción general rápida de una lección.  También son una herramienta útil para la evaluación ya sea desde el punto de vista docente como desde la/el estudiante porque le permite verificar que han construido el modelo mental correcto.  
+ 
+Fuera del ámbito de la enseñanza se pueden utilizar para acordar en un grupo de trabajo el esquema conceptual sobre el que se está trabajando, sobre el tema o producto que se quiere desarrollar o el tema/producto que se quiere completar.
 
 > Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
