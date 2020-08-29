@@ -14,26 +14,29 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
 
 ## Mapas conceptuales en español
 
-* Serie de mapas conceptuales sobre Google Earth Engine (ultima actualización 2019): Lección 1, Lección 2, Lección 3, Lección 4, Lección 5
-* [Rmarkdown](https://github.com/yabellini/concept_maps/blob/master/es/ConcepMapFull_es.png) de un taller inicial (última actualización 2019).
-* [Git con RStudio](https://github.com/yabellini/concept_maps/blob/master/es/git_concept_map.png) incial (última actualización 2020).
-* Google Earth Engine:
-  - [Lección 1](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_1.png)
-  - [Lección 2](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_2.png)
-  - [Lección 3](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_3.png)
-  - [Lección 4](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_4.png)
-  - [Lección 5](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_5.png)
-  - [Lección 6]()
-  - [Lección 7]()
-* R desde cero:
-  - [Lección 1]()
-  - [Lección 2]()
-  - [Lección 3]()
-  - [Lección 4]()
-  - [Lección 5]()
-  - [Lección 6]()
-  - [Lección 7]()
-  - [Lección 8]()
+* [Git con RStudio](https://github.com/yabellini/concept_maps/blob/master/es/git_concept_map.png) de un [taller inicial](https://yabellini.netlify.app/es/courses/tallerdegitconr/) (última actualización 2020).
+
+* [Rmarkdown](https://github.com/yabellini/concept_maps/blob/master/es/ConcepMapFull_es.png) de un [taller inicial](https://yabellini.netlify.app/es/courses/tallerrmarkdown/) (última actualización 2019).
+
+* Google Earth Engine de un [curso inicial](https://yabellini.netlify.app/es/courses/gee_cai2019/) (última actualización 2019):
+  - [Lección 1 - Google Earth Engine](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_1.png)
+  - [Lección 2 -  Java Script para GEE](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_2.png)
+  - [Lección 3 - Datos Vectoriales](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_3.png)
+  - [Lección 4 - Features y Colecciones de Features](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_4.png)
+  - [Lección 5 - Operaciones sobre FeaturesCollection](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_5.png)
+  - [Lección 6 - Manejo de datos rasters](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_6.png)
+  - [Lección 7 - Clasificaciones Supervisadas](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_7.png)
+  
+* R desde cero de un [curso inicial](https://yabellini.netlify.app/es/courses/rdesdecero/) (última actualización 2019):
+  - [Lección 1 - El lenguaje R](https://github.com/yabellini/concept_maps/blob/master/es/lenguaje_R.png)
+  - [Lección 2 - RStudio IDE](https://github.com/yabellini/concept_maps/blob/master/es/IDE_RStudio.png)
+  - [Lección 3 - R base, pquetes, funciones, argumentos, variables]()
+  - [Lección 4 - Mensajes, errores y warnings (advertencias)](https://github.com/yabellini/concept_maps/blob/master/es/mensajes_en_R.png)
+  - [Lección 5 - Cómo obtener ayuda](https://github.com/yabellini/concept_maps/blob/master/es/obtener_ayuda_en_R.png)
+  - [Lección 6 - Comunidad R: R-Ladies](https://github.com/yabellini/concept_maps/blob/master/es/comunidad_R_R_Ladies.png)
+  - [Lección 7 - Estructuras de datos](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos.png)
+  - [Lección 8 - Estructuras de datos continuación](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos_2.png)
+  - [Lección 9 -Como ver la estructura de los datos](https://github.com/yabellini/concept_maps/commit/aa06b1d8b22a87097397bd80966cbb4de2019a39)
   
 
 ## Concept Maps in English
