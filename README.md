@@ -15,12 +15,30 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
 ## Mapas conceptuales en español
 
 * Serie de mapas conceptuales sobre Google Earth Engine (ultima actualización 2019): Lección 1, Lección 2, Lección 3, Lección 4, Lección 5
-* Mapa conceptual sobre [Rmarkdown]() de un taller inicial (última actualización 2019).
-* Mapa conceptial sobre [Git con RStudio]() incial (última actualización 2020).
+* [Rmarkdown](https://github.com/yabellini/concept_maps/blob/master/es/ConcepMapFull_es.png) de un taller inicial (última actualización 2019).
+* [Git con RStudio](https://github.com/yabellini/concept_maps/blob/master/es/git_concept_map.png) incial (última actualización 2020).
+* Google Earth Engine:
+  - [Lección 1](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_1.png)
+  - [Lección 2](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_2.png)
+  - [Lección 3](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_3.png)
+  - [Lección 4](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_4.png)
+  - [Lección 5](https://github.com/yabellini/concept_maps/blob/master/es/GEE_Lesson_5.png)
+  - [Lección 6]()
+  - [Lección 7]()
+* R desde cero:
+  - [Lección 1]()
+  - [Lección 2]()
+  - [Lección 3]()
+  - [Lección 4]()
+  - [Lección 5]()
+  - [Lección 6]()
+  - [Lección 7]()
+  - [Lección 8]()
+  
 
 ## Concept Maps in English
 
-* Concept Map about [Git with RStudio]() (last update 2020).
+* [Git with RStudio]() (last update 2020).
 
 ## Licencia 
 
