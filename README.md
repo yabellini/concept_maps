@@ -10,7 +10,7 @@ Fuera del ámbito de la enseñanza se pueden utilizar para acordar en un grupo d
 
 > Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
-En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis cursos, mis charlas, mis lecciones, mis reuniones y otros usos a medida que vayan ocurriendo.  Si te sirven podes usarlos siempre mencionando la fuente.  Están como imágenes porque fueron creados utilizando diferentes herramientas, si queres hacerle cambios a alguno y compartirlo por aqui hacelo haciendo un Pull Request (PR) a este repo.  Si no sabes o no queres hacer un Pull Request entonces completá un issue en el repo comentando que quisieras hacer y en qué mapa conceptual.  
+En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis cursos, mis charlas, mis lecciones, mis reuniones y otros usos a medida que vayan ocurriendo.  Si te sirven podes usarlos siempre mencionando la fuente.  Están como imágenes porque fueron creados utilizando diferentes herramientas, si queres hacerle cambios a alguno y compartirlo por aqui hacelo haciendo un Pull Request (PR) a este repo.  Si no sabes o no queres hacer un Pull Request entonces completá un issue en el repo comentando que quisieras hacer y en qué mapa conceptual. Vamos a agregar tu nombre a las contribuciones (a menos que nos indiques lo contrario).
 
 ## Mapas conceptuales en español
 
