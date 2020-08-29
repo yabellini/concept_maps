@@ -36,12 +36,23 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
   - [Lección 6 - Comunidad R: R-Ladies](https://github.com/yabellini/concept_maps/blob/master/es/comunidad_R_R_Ladies.png)
   - [Lección 7 - Estructuras de datos](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos.png)
   - [Lección 8 - Estructuras de datos continuación](https://github.com/yabellini/concept_maps/blob/master/es/estructura_de_datos_2.png)
-  - [Lección 9 -Como ver la estructura de los datos](https://github.com/yabellini/concept_maps/commit/aa06b1d8b22a87097397bd80966cbb4de2019a39)
+  - [Lección 9 -Como ver la estructura de los datos](https://github.com/yabellini/concept_maps/blob/master/es/ver_estructura_de_datos.png)
   
 
 ## Concept Maps in English
 
 * [Git with RStudio]() (last update 2020).
+
+* R from scratch (last update 2019):
+  - [Lesson 1 - R Languaje and examples of use](https://github.com/yabellini/concept_maps/blob/master/en/use_cases_R.png)
+  - [Lesson 2 - RStudio IDE](https://github.com/yabellini/concept_maps/blob/master/en/RStudio_IDE.png)
+  - [Lesson 3 - R base, packages, function, parameters, variables](https://github.com/yabellini/concept_maps/blob/master/en/R_base.png)
+  - [Lesson 4 - Messages, errors, warnings](https://github.com/yabellini/concept_maps/blob/master/en/message_error_R.png)
+  - [Lesson 5 - How to get help](https://github.com/yabellini/concept_maps/blob/master/en/help_R.png)
+  - [Lesson 6 - R Community: R-Ladies](https://github.com/yabellini/concept_maps/blob/master/en/r_community_rladies.png)
+  - [Lesson 7 - Data structures](https://github.com/yabellini/concept_maps/blob/master/en/data_structures_r.png)
+  - [Lesson 8 - Data structures (cont.)](https://github.com/yabellini/concept_maps/blob/master/en/data_structures_tibble.png)
+  - [Lesson 9 -Function to see data set structure]()
 
 ## Licencia 
 
