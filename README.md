@@ -41,7 +41,9 @@ En este repo voy a ir dejando diferentes mapas conceptuales construidos para mis
 
 ## Concept Maps in English
 
-* [Git with RStudio]() (last update 2020).
+* [Git with RStudio](https://github.com/yabellini/concept_maps/blob/master/en/git_concept_map_en.png) (last update 2020).
+
+* [Rmarkdown](https://github.com/yabellini/concept_maps/blob/master/en/Rmarkdown.png) (last update 2019)
 
 * R from scratch (last update 2019):
   - [Lesson 1 - R Languaje and examples of use](https://github.com/yabellini/concept_maps/blob/master/en/use_cases_R.png)
